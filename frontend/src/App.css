@@ -1,0 +1,13 @@
+.score-box {
+  width: 100%;
+  padding: 10px;
+  background-color: #f4f4f4;
+  overflow-x: auto;         /* Prevents overflow */
+  white-space: nowrap;      /* Keeps it in one line */
+}
+
+.score-text {
+  text-align: left;         /* Aligns to left */
+  margin-left: 10px;        /* Optional: Pushes text inside from left */
+  font-family: monospace;   /* Optional: Code look */
+}
